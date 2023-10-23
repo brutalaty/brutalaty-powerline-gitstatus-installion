@@ -1,6 +1,6 @@
 # Installing powerline
 
-My personal guide to setting up powerline with powerline-gitstatus on bash.
+My personal linux guide to setting up powerline with powerline-gitstatus on bash.
 For a more detailed, visit [System Slayer's Youtube guide][1]. My instructions here differ slightly as System Slayers wasn't enough to get it working.
 
 ## Prerequisites
